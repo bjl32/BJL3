@@ -1,5 +1,5 @@
 # BJL 2.1 ___*Reborn*___
-## For previous BJL 1 repo, goto [here(https://github.com/biggycao/BJL.)]
+## For previous BJL 1 repo, goto [here](https://github.com/biggycao/BJL.)
 [SUPPORTS LFS 12.2]An automated script that installs maintains a secure BLFS installation.
 #### Please enter your network interface name into BJLetc/Network/InterfaceName.txt.
 
